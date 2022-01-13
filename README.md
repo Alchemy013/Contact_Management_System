@@ -38,23 +38,23 @@ ALGORITHM
 
 2. Now write a function definition menu() which opens the contact (1).dll file which opens it and reads the content inside it.
 
-4. In the main(), create a file named contact(1).dll in append mode.
+3. In the main(), create a file named contact(1).dll in append mode.
 
-5.Take input for name, phone number, email-id etc.
+4.Take input for name, phone number, email-id etc.
 
-6. In while loop, while True or 1, input the choice from user for option variable.
+5. In while loop, while True or 1, input the choice from user for option variable.
 
-7.In Case 1, enter the required/wanted information.
+6.In Case 1, enter the required/wanted information.
 
-8.In Case 2, we see a screen with the list of contact having the info we asked for.
+7.In Case 2, we see a screen with the list of contact having the info we asked for.
 
-9.For Case 3, enter the contact to search and its details. If the contact details are stored in the system, it will be presented as “match found” otherwise “try again” will be displayed.
+8.For Case 3, enter the contact to search and its details. If the contact details are stored in the system, it will be presented as “match found” otherwise “try again” will be displayed.
 
-10.In case 4, we edit the contact by entering the name we had previously put.
+9.In case 4, we edit the contact by entering the name we had previously put.
 
-11.In case 5, we delete a contact by entering the registered details.
+10.In case 5, we delete a contact by entering the registered details.
 
-12.Enter the choice for the main menu and then after deleting the particular contact exit the program.
+11.Enter the choice for the main menu and then after deleting the particular contact exit the program.
 
 
 
