@@ -61,7 +61,7 @@ ALGORITHM
 9.In case 4, we edit the contact by entering the name we had previously put.
 
 
-40.In case 5, we delete a contact by entering the registered details.
+10.In case 5, we delete a contact by entering the registered details.
 
 
 11.Enter the choice for the main menu and then after deleting the particular contact exit the program.
