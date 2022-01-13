@@ -32,6 +32,8 @@ TO CREATE A REAL TIME APPLICATION FOR CONTACT MANAGEMENT SYSTEM AND STORING DATA
 
 
 ALGORITHM
+
+
 1.Write a function definition contact_management which reads the content from the file contact (1).dll till end of file is attained.
 
 2. Now write a function definition menu() which opens the contact (1).dll file which opens it and reads the content inside it.
