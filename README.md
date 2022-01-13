@@ -5,13 +5,13 @@ This was my Minor Project for CSe Btech Engineering First Sem.
 
 ##############################################################
 
-Feel Free to use this Project.
-
 
 This Code is Property of Rehyann Saini
 
-Copyrights none.
+Copyrights.
 
+
+Feel Free to use this Project.
 
 
 
